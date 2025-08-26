@@ -21,11 +21,10 @@ Comparison of different models for predictive accuracy.
 
 📊 Dataset
 
-Source: [Add dataset source here — e.g., Kaggle, UCI, or internal dataset]
-
+Source: (https://www.kaggle.com/datasets/sohommajumder21/appliances-energy-prediction-data-set)
 Contains information on energy consumption in low-energy houses with various environmental and design features.
 
-Size: [Add rows/columns info]
+Size: 19,735 rows, 29 columns  
 
 🚀 Key Insights
 
