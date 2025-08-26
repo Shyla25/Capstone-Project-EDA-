@@ -62,3 +62,15 @@ Jupyter Notebook
 Expand dataset with more diverse housing samples.
 
 Explore deep learning approaches for time-series energy prediction.
+
+### 🔄 A/B Testing Framework (Proposed)  
+To evaluate the commercial applicability of the predictive model, I designed an A/B testing framework:  
+
+- **Group A (Control):** Houses monitored with standard energy usage forecasting methods.  
+- **Group B (Treatment):** Houses monitored with the machine learning–based prediction system.  
+- **Metrics to Compare:** Energy consumption accuracy, cost savings, and comfort level (temperature regulation).  
+- **Expected Outcome:** Group B should demonstrate more accurate forecasts and measurable energy savings.  
+
+*Note: This is a proposed A/B testing framework to demonstrate how the model could be validated in practice. Actual experimental data is not included.*  
+
+👉 Full details are in the [A/B Study Plan](AB-study.md).  
